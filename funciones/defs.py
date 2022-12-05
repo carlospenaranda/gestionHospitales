@@ -1,4 +1,3 @@
-from cgi import print_arguments
 from Objetos.objHospital import Hospital
 from Objetos.objDoctor import Doctor
 from Objetos.objPaciente import Paciente
